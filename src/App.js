@@ -28,7 +28,7 @@ class App extends Component {
       console.log(this.state.clicked);
     }
     if (!clicked) {
-      alert("You clicked that landmark already! Try again?");
+      alert("Whoops! You clicked that SF image already! Try again!");
       this.setState({ score: 0 });
       this.setState({ clicked: [] });
       if (this.state.score > this.state.topscore) {
