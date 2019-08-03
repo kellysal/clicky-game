@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Gate Bridge",
+        "image": "https://brandoracollective.com/wp-content/uploads/2016/02/Square-POTG-Golden-Gate-Bridge-Photo.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Alcatraz",
+        "image": "https://img-aws.ehowcdn.com/560x560p/photos.demandstudios.com/65/33/fotolia_3388197_XS.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Lombard",
+        "image": "https://media.california.com/media/_versions/ca_geo/san.francisco.california_(1)_thumbnail_nearby_mobile.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Painted Ladies",
+        "image": "https://cdn.vroomvroomvroom.com/images/vroomvroomvroom-com/cms/san-franscisco-skyline-dp-min.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Bay Bridge",
+        "image": "https://webitmd.com/wp-content/uploads/2019/01/san-francisco-seo-350x350.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Coit Tower",
+        "image": "https://ddcfq0gxiontw.cloudfront.net/Review/72309753/61689595/medium_square.jpg?1540830828",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "PoFA",
+        "image": "http://www.ratadata.com/users/billybob/_data/i/galleries/SAMPLE%20PRESENTATION/SAN%20FRANCISCO/LANDMARKS/San%20Francisco%20--%20Palace%20of%20Fine%20Arts/PalaceOfFineArts_2012-04-09_STST_042-cu_e350.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Ferry Building",
+        "image": "https://www.fdm-travel.dk/sites/default/files/styles/square_1_4/public/images/hh-14/17_San_Francisco_The_Ferry_Building_1.jpg?h=45bb5ff9&itok=EDoZ5poy",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Noe",
+        "image": "https://images.trvl-media.com/hotels/31000000/30110000/30100500/30100491/895691d5_b.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Cable Car",
+        "image": "https://cdn.vroomvroomvroom.com/images/vroomvroomvroom-com/cms/san-francisco-cable-line-DP.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Skyline",
+        "image": "https://www.360dg.com/assets/hotel-images/_square350/360-Destination-Group-San-Francisco-California-Grand-Hyatt.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Transamerica",
+        "image": "http://www.rosenrg.com/wp-content/uploads/2015/11/600-Monty-Thumbnail-e1468456224461.jpg",
+        "count": 0
+    }
+]

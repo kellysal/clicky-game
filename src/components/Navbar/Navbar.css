@@ -1,0 +1,29 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    z-index: 99;
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-text {
+    margin-right: 70px;
+}
+
+/* #description {
+    margin: 250px;
+} */
+
+header {
+    color: black;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    text-align: center;
+}
