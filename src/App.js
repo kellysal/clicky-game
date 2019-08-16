@@ -43,13 +43,16 @@ class App extends Component {
       this.setState({ topscore: 12 });
       shuffle(this.state.cards);
     }
+
     // shuffle image cards
     function shuffle(card) {
       for (let i = cards.length - 1; i > 0; i--) {
         let j = Math.floor(Math.random() * (i + 1));
         [card[i], card[j]] = [card[j], card[i]];
+        // console.log(card);
       }
       return card;
+
     }
   }
 
